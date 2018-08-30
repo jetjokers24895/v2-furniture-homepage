@@ -1,0 +1,23 @@
+
+.text-header-top {
+  margin-left: 5px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  /* padding-top: 0s;
+  padding-bottom: 0; */
+}
+.header-top {
+  background: rgb(189, 123, 0);
+}
+
+.nav-icon {
+  color: black !important;
+  margin-right: 5px;
+}
+.other-page {
+  width: 100%;
+}
+.caption-ship {
+  padding-top: 0.5rem;
+}
