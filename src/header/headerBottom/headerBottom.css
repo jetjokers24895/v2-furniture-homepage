@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+
+.header-bottom {
+  background: black;
+  color: whitesmoke;
+  padding-top: 20px
+}
+
+.logo img {
+  height: 50px;
+}
+.logo {
+  padding-left: 10px;
+  
+}
+
+.map-icon {
+  color: whitesmoke !important;
+  margin-right: 5px;
+  font-size:20px;
+}
+
+.user-icon {
+  color: whitesmoke !important;
+  font-size:30px;
+  margin-left: 5px;
+}
+

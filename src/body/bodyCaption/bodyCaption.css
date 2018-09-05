@@ -1,0 +1,8 @@
+@import '~antd/dist/antd.css';
+
+.text-body-caption {
+  text-align: center;
+  vertical-align: center;
+  padding:20px;
+  font-size: 27px;
+}

@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+
+.filter-component  {
+  margin-left:20px
+}
+.filter-material  {
+  margin-left:20px
+}
+.arrange  {
+  margin-left:20px
+}
+/* .product-tools-icon {
+  margin-left: 2px;
+  border: 0.1px;
+  border-style: solid;
+  border-color: black;
+  font-size: 25px
+} */
+.product-tools {
+  padding: 5px;
+}

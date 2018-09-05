@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-dots li.slick-active button {
+  background: rgb(119, 119, 119);
+}
+
+.ant-carousel .slick-dots li button {
+  background: rgb(184, 183, 183)
+}
