@@ -34,7 +34,7 @@ module.exports = {
     'Sắp xếp Gía từ cao đến thấp',
     'Sắp xếp Gía từ thấp đến cao'
   ],
-  baseUrl : 'http://v2-api.furnituremaker.vn',
+  urlBase : 'http://v2-api.furnituremaker.vn',
   textBuyButton: 'Mua Hàng',
   textDesignButton: 'Tự Thiết Kế'
 }

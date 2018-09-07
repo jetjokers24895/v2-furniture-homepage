@@ -13,7 +13,7 @@ import SlideBanner from './body/slideBanner/slideBanner';
 import Indexing from './body/indexing/indexing';
 import ProductTools from './body/productTools/productTools';
 import ProductSelected from './body/productSelected/productSelected';
-import Catalog from './body/catalog/catalog'
+import {Catalog} from './body/catalog/catalog'
 
 
 const listComponent = []
@@ -25,6 +25,7 @@ ReactDOM.render(<SlideCategory/>, document.getElementById('slide-category'))
 ReactDOM.render(<SlideBanner/>, document.getElementById('slide-banner'))
 ReactDOM.render(<Indexing category="Amchair" design="Aster"/>, document.getElementById('indexing'))
 ReactDOM.render(<ProductTools />, document.getElementById('product-tools'))
-ReactDOM.render(<ProductSelected/>, document.getElementById('product-selected'))
 ReactDOM.render(<Catalog/>,document.getElementById('catalog'))
+ReactDOM.render(<ProductSelected/>, document.getElementById('product-selected'))
+
 registerServiceWorker();
